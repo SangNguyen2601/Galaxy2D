@@ -1,0 +1,29 @@
+G:\visual studio\C#\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.exe.config
+G:\visual studio\C#\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.exe
+G:\visual studio\C#\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.pdb
+G:\visual studio\C#\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.csprojResolveAssemblyReference.cache
+G:\visual studio\C#\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.Form1.resources
+G:\visual studio\C#\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.Properties.Resources.resources
+G:\visual studio\C#\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.csproj.GenerateResource.Cache
+G:\visual studio\C#\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.exe
+G:\visual studio\C#\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.pdb
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.exe.config
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.exe
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.pdb
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.exe
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.pdb
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.csprojResolveAssemblyReference.cache
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.Form1.resources
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.Properties.Resources.resources
+C:\Users\HIEP\Desktop\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.csproj.GenerateResource.Cache
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.exe.config
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.exe
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.pdb
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.exe
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\bin\Debug\Galaxy2D.pdb
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.Form1.resources
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.Properties.Resources.resources
+C:\Users\user\Downloads\Compressed\Galaxy2D\Galaxy2D\Galaxy2D\obj\Debug\Galaxy2D.csproj.GenerateResource.Cache
+G:\visual studio\C#\Galaxy2D\Galaxy2D\bin\Debug\DevComponents.DotNetBar2.dll
+G:\visual studio\C#\Galaxy2D\Galaxy2D\bin\Debug\DevComponents.DotNetBar2.xml
